@@ -621,13 +621,3 @@ if __name__ == "__main__":
 - Pydantic: Data validation and structure
 - Sequential Processing: One step after another (vs parallel)
 
-🔧 WHAT YOU NEED:
-- Just an Anthropic API key (no other paid services)
-- Python packages: langchain, langchain-anthropic, langchain-community, pydantic, wikipedia
-"""
-
-'''cd /Users/vinyakestur/Desktop/langchain-langgraph-research-assistant
-source venv/bin/activate
-export ANTHROPIC_API_KEY=your_actual_api_key_here
-python LangChain_ResearchAssistant.py
-'''
