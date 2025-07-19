@@ -1177,7 +1177,7 @@ AI AGENT CONCEPTS:
    - Multiple information sources provide comprehensive coverage
    - Structured report format ensures readability and citations
 """
-'''cd /Users/vinyakestur/Desktop/langchain-langgraph-research-assistant
+'''cd /Users/vibakestur/Desktop/langchain-langgraph-research-assistant
 source venv/bin/activate
 export ANTHROPIC_API_KEY=your_actual_api_key_here
 python LangGraph_ResearchAssistant.py
