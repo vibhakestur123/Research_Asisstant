@@ -1,0 +1,12 @@
+cat > README.md << 'EOF'
+# LangChain Research Assistant
+
+A comprehensive AI-powered research assistant that generates detailed reports by orchestrating interviews between specialized AI analyst personas and domain experts. This project demonstrates advanced LangChain/LangGraph implementations for multi-agent research workflows.
+
+## Overview
+
+The system creates diverse AI analyst personas, each with specific expertise areas, who conduct structured interviews with AI experts. These interviews are then synthesized into professional research reports with proper citations and comprehensive analysis.
+
+**Two Implementation Approaches:**
+- **LangChain Version**: Sequential processing with detailed documentation for educational purposes
+- **LangGraph Version**: Production-ready implementation with parallel processing and human-in-the-loop capabilities

@@ -1,0 +1,17 @@
+# Core LangChain dependencies
+langchain>=0.1.0
+langchain-anthropic>=0.1.0
+langchain-community>=0.0.25
+langgraph>=0.0.30
+
+# AI model and API integrations
+anthropic>=0.8.0
+tavily-python>=0.3.0
+
+# Data handling and validation
+pydantic>=2.0.0
+typing-extensions>=4.0.0
+
+# Utilities
+wikipedia>=1.4.0
+python-dotenv>=1.0.0
